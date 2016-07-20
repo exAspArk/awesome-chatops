@@ -184,6 +184,7 @@ A collection of awesome chatbots.
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/wonderbread/lita-telegram) (Ruby)
 * [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) (Ruby)
+* [TelegramBot](https://github.com/hangyas/TelegramBot) (Crystal)
 * [TelegramBot](https://github.com/eljojo/telegram_bot) (Ruby)
 
 ### Tox
