@@ -164,6 +164,7 @@ A collection of awesome chatbots.
 
 ### Slack
 
+* [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 * [Errbot](http://errbot.io/) (Python)
 * [Hal](https://hal.readthedocs.io/) (Go) + [Slack Adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html)
 * [Hubot](https://hubot.github.com/) (CoffeeScript, Node.js) + [Slack Adapter](https://github.com/slackhq/hubot-slack)
@@ -172,6 +173,7 @@ A collection of awesome chatbots.
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
+* [Slacker](https://github.com/koudelka/slacker) (Elixir)
 
 ### Talker
 
