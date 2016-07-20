@@ -24,7 +24,7 @@ A collection of awesome chatbots.
 * [Mattermost](#mattermost)
 * [Partychat](#partychat)
 * [QQ](#qq)
-* [Rocket.Chat](#rocket-chat)
+* [Rocket.Chat](#rocketchat)
 * [Skype](#skype)
 * [Skyweb](#skyweb)
 * [Slack](#slack)
