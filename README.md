@@ -50,6 +50,7 @@ A collection of awesome chatbots.
 ### Campfire
 
 * [Errbot](http://errbot.io/) (Python) + [Campfire Adapter](https://github.com/errbotio/err-backend-campfire)
+* [Hal](https://hal.readthedocs.io/) (Go) + [Campfire Adapter](https://hal.readthedocs.io/en/latest/adapters/campfire.html)
 * [Hubot](https://hubot.github.com/) (CoffeeScript, Node.js) + [Campfire Adapter](https://hubot.github.com/docs/adapters/campfire/)
 * [Lita](https://www.lita.io/) (Ruby) + [Campfire Adapter](https://github.com/josacar/lita-campfire)
 
@@ -96,6 +97,7 @@ A collection of awesome chatbots.
 ### HipChat
 
 * [Errbot](http://errbot.io/) (Python)
+* [Hal](https://hal.readthedocs.io/) (Go) + [HipChat Adapter](https://hal.readthedocs.io/en/latest/adapters/hipchat.html)
 * [Hipbot](https://github.com/pewniak747/hipbot) (Ruby)
 * [Hipchat](https://github.com/daneharrigan/hipchat) (Go) via XMPP
 * [Hipchat-go](https://github.com/tbruyelle/hipchat-go) (Go) via HipChat API v2
@@ -115,6 +117,7 @@ A collection of awesome chatbots.
 
 * [Cinch](https://github.com/cinchrb/cinch) (Ruby)
 * [Errbot](http://errbot.io/) (Python)
+* [Hal](https://hal.readthedocs.io/) (Go) + [IRC Adapter](https://hal.readthedocs.io/en/latest/adapters/irc.html)
 * [Hubot](https://hubot.github.com/) (CoffeeScript, Node.js) + [IRC Adapter](https://github.com/nandub/hubot-irc)
 * [Lita](https://www.lita.io/) (Ruby) + [IRC Adapter](https://github.com/litaio/lita-irc)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
@@ -162,6 +165,7 @@ A collection of awesome chatbots.
 ### Slack
 
 * [Errbot](http://errbot.io/) (Python)
+* [Hal](https://hal.readthedocs.io/) (Go) + [Slack Adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html)
 * [Hubot](https://hubot.github.com/) (CoffeeScript, Node.js) + [Slack Adapter](https://github.com/slackhq/hubot-slack)
 * [Jubot](https://github.com/liquidz/jubot) (Clojure)
 * [Lita](https://www.lita.io/) (Ruby) + [Slack Adapter](https://github.com/litaio/lita-slack)
