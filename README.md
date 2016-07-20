@@ -2,6 +2,8 @@
 
 A collection of awesome chatbots.
 
+If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ## Messengers
 
 * [AIM](#aim)
