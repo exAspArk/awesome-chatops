@@ -9,11 +9,21 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Contents
 
+* [Articles](#articles)
 * [Videos](#videos)
 * [Books](#books)
 * [Events](#events)
-* [Miscellaneous](#miscellaneous)
+* [Podcasts](#podcasts)
+* [Resources](#resources)
 * [Bots](#bots)
+
+## Articles
+
+* [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – ChatOps concepts and tools.
+* [What is ChatOps? A guide to its evolution, adoption, and significance](http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/) – ChatOps and its adoption by HipChat Evangelist.
+* [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) – Benefits of using ChatOps, tools, current trend and the future.
+* [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) – The insight on why ChatOps might not be optimized at your company, and some advice how to make it work.
+* [When ChatOps Goes From Cool to Critical](http://blog.librato.com/posts/chatops-critical) – Some considerations of ChatOps at Librato.
 
 ## Videos
 
@@ -34,14 +44,12 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 * [ChatOps San Francisco](http://www.meetup.com/ChatOps-San-Francisco/) – Discussion and collaboration on all aspects of ChatOps including tools, security, and methodology.
 
-## Miscellaneous
+## Podcasts
 
-* [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – An article about ChatOps concepts and tools.
-* [What is ChatOps? A guide to its evolution, adoption, and significance](http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/) – An article about ChatOps and its adoption by HipChat Evangelist.
-* [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) – An article about the benefits of using ChatOps, the tools, current trend and the future.
-* [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) – An article with some insight on why ChatOps might not be optimized at your company, and some advice how to make it work.
-* [When ChatOps Goes From Cool to Critical](http://blog.librato.com/posts/chatops-critical) – An article about the considerations of ChatOps at Librato.
-* [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) – A podcast episode about best practices of ChatOps.
+* [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) – An episode about best practices of ChatOps.
+
+## Resources
+
 * [/r/chatops](https://www.reddit.com/r/chatops/) – Subreddit with articles and discussion.
 
 ## Bots
