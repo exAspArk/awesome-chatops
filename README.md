@@ -12,37 +12,37 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Videos](#videos)
 * [Books](#books)
 * [Events](#events)
-* [Other Resources](#other-resources)
+* [Miscellaneous](#miscellaneous)
 * [Bots](#bots)
 
 ## Videos
 
-* [ChatOps at GitHub](https://www.youtube.com/watch?v=NST3u-GjjFw) + [slides](https://speakerdeck.com/jnewland/chatops-at-github) – the first public talk on the subject by Jesse Newland.
+* [ChatOps at GitHub](https://www.youtube.com/watch?v=NST3u-GjjFw) + [slides](https://speakerdeck.com/jnewland/chatops-at-github) – The first public talk on the subject by Jesse Newland.
 * [ChatOps: Technology and Philosophy](https://www.youtube.com/watch?v=IhzxnY7FIvg) – James Fryman of Stackstorm about the philosophy, best practices for implementing and maintaining ChatOps.
-* [The Rise of ChatOps](https://www.youtube.com/watch?v=6D5HgI4IH10) + [slides](https://speakerdeck.com/jimmycuadra/the-rise-of-chatops) – from the first ChatOps San Francisco meetup by Jimmy Cuadra.
-* [ChatOps: Augmented Reality for Ops](https://www.youtube.com/watch?v=pCVvYCjvoZI) – how Github use chat to improve situational awareness during incidents, to share knowledge, to coordinate activities, and much more.
-* [Living in the Future with ChatOps](https://www.youtube.com/watch?v=Heo5YtRikds) + [slides](https://speakerdeck.com/esigler/living-in-the-future-with-chatops) – a quick summary of PagerDuty's ChatOps journey by Eric Sigler.
-* [Incident Management from the Future](https://www.youtube.com/watch?v=vFkfMn2P8ysA) + [slides](https://cloud.app.box.com/s/xm8ni5b61iyuk0nclq7jcvtkhkzcepdx) – how Michael Ansel manages incidents via chat at Box.
-* [ChatOps San Francisco YouTube Channel](https://www.youtube.com/channel/UCAvvR4g9fodNAS61Ep_XnMg) – more videos from each meetup.
+* [The Rise of ChatOps](https://www.youtube.com/watch?v=6D5HgI4IH10) + [slides](https://speakerdeck.com/jimmycuadra/the-rise-of-chatops) – From the first ChatOps San Francisco meetup by Jimmy Cuadra.
+* [ChatOps: Augmented Reality for Ops](https://www.youtube.com/watch?v=pCVvYCjvoZI) – How Github use chat to improve situational awareness during incidents, to share knowledge, to coordinate activities, and much more.
+* [Living in the Future with ChatOps](https://www.youtube.com/watch?v=Heo5YtRikds) + [slides](https://speakerdeck.com/esigler/living-in-the-future-with-chatops) – A quick summary of PagerDuty's ChatOps journey by Eric Sigler.
+* [Incident Management from the Future](https://www.youtube.com/watch?v=vFkfMn2P8ysA) + [slides](https://cloud.app.box.com/s/xm8ni5b61iyuk0nclq7jcvtkhkzcepdx) – How Michael Ansel manages incidents via chat at Box.
+* [ChatOps San Francisco YouTube Channel](https://www.youtube.com/channel/UCAvvR4g9fodNAS61Ep_XnMg) – More videos from each meetup.
 
 ## Books
 
-* [ChatOps For Dummies](https://victorops.com/chatops-for-dummies/) – a high-level guide to understanding the origins of the practice, the benefits and tools needed to get started.
-* [ChatOps – Managing Operations in Group Chat](https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/) – the key ChatOps concepts and technologies by Jason Hand.
+* [ChatOps For Dummies](https://victorops.com/chatops-for-dummies/) – A high-level guide to understanding the origins of the practice, the benefits and tools needed to get started.
+* [ChatOps – Managing Operations in Group Chat](https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/) – The key ChatOps concepts and technologies by Jason Hand.
 
 ## Events
 
-* [ChatOps San Francisco](http://www.meetup.com/ChatOps-San-Francisco/) – discussion and collaboration on all aspects of ChatOps including tools, security, and methodology.
+* [ChatOps San Francisco](http://www.meetup.com/ChatOps-San-Francisco/) – Discussion and collaboration on all aspects of ChatOps including tools, security, and methodology.
 
-## Other Resources
+## Miscellaneous
 
-* [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – an article about ChatOps concepts and tools.
-* [What is ChatOps? A guide to its evolution, adoption, and significance](http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/) – an article about ChatOps and its adoption by HipChat Evangelist.
-* [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) – an article about the benefits of using ChatOps, the tools, current trend and the future.
-* [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) – an article with some insight on why ChatOps might not be optimized at your company, and some advice how to make it work.
-* [When ChatOps Goes From Cool to Critical](http://blog.librato.com/posts/chatops-critical) – an article about the considerations of ChatOps at Librato.
-* [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) – a podcast about best practices of ChatOps.
-* [/r/chatops](https://www.reddit.com/r/chatops/) – subreddit with articles and discussion.
+* [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – An article about ChatOps concepts and tools.
+* [What is ChatOps? A guide to its evolution, adoption, and significance](http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/) – An article about ChatOps and its adoption by HipChat Evangelist.
+* [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) – An article about the benefits of using ChatOps, the tools, current trend and the future.
+* [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) – An article with some insight on why ChatOps might not be optimized at your company, and some advice how to make it work.
+* [When ChatOps Goes From Cool to Critical](http://blog.librato.com/posts/chatops-critical) – An article about the considerations of ChatOps at Librato.
+* [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) – A podcast episode about best practices of ChatOps.
+* [/r/chatops](https://www.reddit.com/r/chatops/) – Subreddit with articles and discussion.
 
 ## Bots
 
