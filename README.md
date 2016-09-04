@@ -34,6 +34,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Living in the Future with ChatOps](https://www.youtube.com/watch?v=Heo5YtRikds) + [slides](https://speakerdeck.com/esigler/living-in-the-future-with-chatops) – A quick summary of PagerDuty's ChatOps journey by Eric Sigler.
 * [Incident Management from the Future](https://www.youtube.com/watch?v=vFkfMn2P8ysA) + [slides](https://cloud.app.box.com/s/xm8ni5b61iyuk0nclq7jcvtkhkzcepdx) – How Michael Ansel manages incidents via chat at Box.
 * [ChatOps San Francisco YouTube Channel](https://www.youtube.com/channel/UCAvvR4g9fodNAS61Ep_XnMg) – More videos from each meetup.
+* [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell desired state configuration resource to install Hubot on Windows.
 
 ## Books
 
