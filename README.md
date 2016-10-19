@@ -35,6 +35,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Incident Management from the Future](https://www.youtube.com/watch?v=vFkfMn2P8ysA) + [slides](https://cloud.app.box.com/s/xm8ni5b61iyuk0nclq7jcvtkhkzcepdx) – How Michael Ansel manages incidents via chat at Box.
 * [ChatOps San Francisco YouTube Channel](https://www.youtube.com/channel/UCAvvR4g9fodNAS61Ep_XnMg) – More videos from each meetup.
 * [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
+* [Embrace ChatOps, stop installing deployment software - Laracon EU 2016](https://www.youtube.com/watch?v=SZ3UfwBACIo) - A talk about how to leverage chatops for automated deployment using Hubot - [slides](http://www.slideshare.net/geshan/embrace-chatops-stop-installing-deployment-software-larcon-eu-2016).
 
 ## Books
 
