@@ -8,6 +8,10 @@
 * Link additions should be added to the bottom of the relevant category.
 * Write `ChatOps` when using the term.
 
+## For Videos section
+
+* Use the following format: `[Title](Link) + [slides](Link) – description.`
+
 ## For Bots section
 
 * Use the following format: `[Library](Link) (Programming language, Platform).`
