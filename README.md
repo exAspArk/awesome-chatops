@@ -49,6 +49,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Podcasts
 
 * [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) – An episode about best practices of ChatOps.
+* [ChatOps with Jason Hand](http://softwareengineeringdaily.com/2016/11/02/chatops-with-jason-hand/) - An episode about ChatOps in general.
 
 ## Resources
 
