@@ -146,6 +146,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### HipChat
 
+* [Cog](https://operable.io/) (Any language)
 * [Errbot](http://errbot.io/) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/hipchat.html) (Go)
 * [Hipbot](https://github.com/pewniak747/hipbot) (Ruby)
@@ -218,6 +219,7 @@ These open source projects will help you to build a bot in order to automate you
 ### Slack
 
 * [Botkit](https://github.com/howdyai/botkit) (JavaScript, Node.js)
+* [Cog](https://operable.io/) (Any language)
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 * [Errbot](http://errbot.io/) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) (Go)
