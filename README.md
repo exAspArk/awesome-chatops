@@ -93,7 +93,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Visual Studio Online](#visual-studio-online)
 * [Vkontakte](#vkontakte)
 * [WeChat](#wechat)
-* [XMPP](#xmpp)
+* [XMPP/Jabber](#xmpp)
 * [Yammer](#yammer)
 
 ### AIM
