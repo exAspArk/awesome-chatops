@@ -173,10 +173,6 @@ These open source projects will help you to build a bot in order to automate you
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-irc) (Ruby)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
 
-### Jabber
-
-* [Jabberjay](https://github.com/vbauer/jabberjay) (Clojure)
-
 ### Jabbr
 
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/smoak/hubot-jabbr) (CoffeeScript, Node.js)
@@ -282,10 +278,11 @@ These open source projects will help you to build a bot in order to automate you
 
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/KasperDeng/Hubot-WeChat) (CoffeeScript, Node.js)
 
-### XMPP
+### XMPP/Jabber
 
 * [Errbot](http://errbot.io/) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
+* [Jabberjay](https://github.com/vbauer/jabberjay) (Clojure)
 
 ### Yammer
 
