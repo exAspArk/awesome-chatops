@@ -186,6 +186,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Mattermost
 
+* [Errbot](http://errbot.io) + [adapter](https://github.com/Vaelor/errbot-mattermost-backend) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/renanvicente/hubot-mattermost) (CoffeeScript, Node.js)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/loafoe/hubot-matteruser) via Websockets (CoffeeScript, Node.js)
 
@@ -199,6 +200,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Rocket.Chat
 
+* [Errbot](http://errbot.io) + [adapter](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
 
 ### Skype
@@ -271,6 +273,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Vkontakte
 
+* [Errbot](http://errbot.io) + [adapter](https://github.com/Ax3Effect/errbot-vk) (Python)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-vkontakte) (Ruby)
 
 ### WeChat
