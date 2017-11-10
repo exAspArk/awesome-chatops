@@ -43,6 +43,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [ChatOps For Dummies](https://victorops.com/chatops-for-dummies/) – A high-level guide to understanding the origins of the practice, the benefits and tools needed to get started.
 * [ChatOps – Managing Operations in Group Chat](https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/) – The key ChatOps concepts and technologies by Jason Hand.
 * [Automation and Monitoring with Hubot](https://leanpub.com/automation-and-monitoring-with-hubot) - An e-book that walks you through building a Hubot driven ChatOps implementation.
+* [ChatOps](http://www.oreilly.com/webops-perf/free/chatops.csp) - An e-book by Jason Hand that helps you learn how your team can query information, work together on solutions, enter commands with bots and scripts, and comment on the work—all in one place and in real time.
 
 ## Events
 
