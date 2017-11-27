@@ -98,6 +98,7 @@ These open source projects will help you to build a bot in order to automate you
 * [WeChat](#wechat)
 * [XMPP / Jabber](#xmpp--jabber)
 * [Yammer](#yammer)
+* [Zulip](#zulip)
 
 ### AIM
 
