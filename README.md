@@ -304,12 +304,12 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Yammer
 
-* [Hubot](https://hubot.github.com/) [adapter](https://github.com/athieriot/hubot-yammer) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/athieriot/hubot-yammer) (CoffeeScript, Node.js)
 
 ### Zulip
 
-* [Errbot](http://errbot.io/) [adapter](https://github.com/zulip/errbot-backend-zulip) (Python)
-* [Hubot](https://hubot.github.com/) [adapter](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/zulip/errbot-backend-zulip) (Python)
+* [Hubot](https://hubot.github.com/) + [adapter](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 
 ---
 

@@ -15,4 +15,5 @@
 ## For Bots section
 
 * Use the following format: `[Library](Link) (Programming language, Platform).`
+* Use the following format for frameworks with different adapters: `[Library](Link) + [adapter](Link) (Programming language, Platform).`
 * Items should be sorted alphabetically.
