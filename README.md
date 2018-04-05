@@ -238,6 +238,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Multivac](https://github.com/vektorlab/multivac) (Python, Docker)
 * [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) (Python)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
+* [PoshBot](https://github.com/poshbotio/PoshBot) (PowerShell)
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) (Elixir)
