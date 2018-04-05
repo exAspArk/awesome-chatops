@@ -37,6 +37,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
 * [Embrace ChatOps, stop installing deployment software](https://www.youtube.com/watch?v=SZ3UfwBACIo) + [slides](http://www.slideshare.net/geshan/embrace-chatops-stop-installing-deployment-software-larcon-eu-2016) - A talk from Laracon EU 2016 about how to leverage ChatOps for automated deployment using Hubot.
 * [ChatOps with PowerShell and Errbot](https://www.youtube.com/watch?v=XIMOFnfdOx0) - A talk from PowerShell Conference Europe 2017 about how get started with Errbot on Windows with PowerShell.
+* [ChatOps with PoshBot and PowerShell](https://www.youtube.com/watch?v=36fkyKYq43c) - An overview of PoshBot, a PowerShell-based bot framework at the Portland PowerShell user group.
 
 ## Books
 
