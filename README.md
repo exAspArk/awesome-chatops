@@ -192,6 +192,9 @@ These open source projects will help you to build a bot in order to automate you
 
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/miyagawa/hubot-lingr) (CoffeeScript, Node.js)
 
+### Microsoft Teams
+* [YellowAnt](https://www.yellowant.com/) + [connector](https://www.yellowant.com/api/) (Python, Ruby, Node, .NET)
+
 ### Matrix
 
 * [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-matrix) (Python)
@@ -242,6 +245,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) (Elixir)
+* [YellowAnt](https://www.yellowant.com/) + [connector](https://www.yellowant.com/api/) (Python, Ruby, Node, .NET)
 * [Yetibot](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Spark
