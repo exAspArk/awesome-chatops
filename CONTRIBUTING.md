@@ -8,12 +8,17 @@
 * Link additions should be added to the bottom of the relevant category.
 * Write `ChatOps` when using the term.
 
-## For Videos section
+## [Videos](/README.md#videos)
 
 * Use the following format: `[Title](Link) + [slides](Link) – description.`
 
-## For Bots section
+## [Services](/README.md#services)
+
+* Use the following format: `[Name](Link) – description (free | freemium | paid). Integrates with LIST OF SERVICES, TOOLS`
+* Items should be sorted alphabetically.
+
+## [Frameworks and libraries](/README.md#frameworks-and-libraries)
 
 * Use the following format: `[Library](Link) (Programming language, Platform).`
-* Use the following format for frameworks with different adapters: `[Library](Link) + [adapter](Link) (Programming language, Platform).`
+* Use the following format for frameworks with different adapters: `[Framework](Link) + [adapter](Link) (Programming language, Platform).`
 * Items should be sorted alphabetically.
