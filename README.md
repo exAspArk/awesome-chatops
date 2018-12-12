@@ -15,7 +15,8 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Events](#events)
 * [Podcasts](#podcasts)
 * [Resources](#resources)
-* [Bots](#bots)
+* [Services](#services)
+* [Frameworks and libraries](#frameworks-and-libraries)
 
 ## Articles
 
@@ -58,9 +59,13 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 * [/r/chatops](https://www.reddit.com/r/chatops/) – Subreddit with articles and discussion.
 
-## Bots
+## Services
 
-These open source projects will help you to build a bot in order to automate your company chat depending on platform.
+* [WorkflowCI](https://www.workflowci.com) – IFTTT for developers (freemium). Integrates with Slack, GitHub, CircleCI, Google Cloud Build.
+
+## Frameworks and libraries
+
+These open source projects will help you to build a bot to automate your company chat depending on the platform.
 
 * [AIM](#aim)
 * [Campfire](#campfire)
