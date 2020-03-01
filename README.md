@@ -81,6 +81,7 @@ These open source projects will help you to build a bot to automate your company
 * [iMessage](#imessage)
 * [IRC](#irc)
 * [Jabbr](#jabbr)
+* [Jarvis](#jarvis)
 * [Let's chat](#lets-chat)
 * [Lingr](#lingr)
 * [Matrix](#matrix)
@@ -188,6 +189,10 @@ These open source projects will help you to build a bot to automate your company
 ### Jabbr
 
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/smoak/hubot-jabbr) (CoffeeScript, Node.js)
+
+### Jarvis
+
+* [A Flowdock robot similar to Hubot](https://github.com/RallySoftware/jarvis)
 
 ### Let's chat
 
