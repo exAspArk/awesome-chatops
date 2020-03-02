@@ -93,6 +93,7 @@ These open source projects will help you to build a bot to automate your company
 * [Skyweb](#skyweb)
 * [Slack](#slack)
 * [Spark](#spark)
+* [StackStorm](#stackStorm)
 * [Talker](#talker)
 * [Telegram](#telegram)
 * [Tox](#tox)
@@ -253,6 +254,10 @@ These open source projects will help you to build a bot to automate your company
 * [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) (Elixir)
 * [Yetibot](https://github.com/yetibot/yetibot) (Clojure)
+
+### StackStorm
+* [StackStorm](https://github.com/StackStorm/)(node + hubot)
+
 
 ### Spark
 
