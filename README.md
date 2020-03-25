@@ -62,6 +62,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Services
 
 * [WorkflowCI](https://www.workflowci.com) – IFTTT for developers (freemium). Integrates with Slack, GitHub, CircleCI, Google Cloud Build.
+* [StackStorm](https://github.com/StackStorm/) - StackStorm Chatops in a form of packages and docker image. The package includes hubot, hubot-stackstorm and pre-installed adapters for many Chat services.
 
 ## Frameworks and libraries
 
@@ -81,7 +82,6 @@ These open source projects will help you to build a bot to automate your company
 * [iMessage](#imessage)
 * [IRC](#irc)
 * [Jabbr](#jabbr)
-* [Jarvis](#jarvis)
 * [Let's chat](#lets-chat)
 * [Lingr](#lingr)
 * [Matrix](#matrix)
@@ -93,7 +93,6 @@ These open source projects will help you to build a bot to automate your company
 * [Skyweb](#skyweb)
 * [Slack](#slack)
 * [Spark](#spark)
-* [StackStorm](#stackStorm)
 * [Talker](#talker)
 * [Telegram](#telegram)
 * [Tox](#tox)
@@ -191,10 +190,6 @@ These open source projects will help you to build a bot to automate your company
 
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/smoak/hubot-jabbr) (CoffeeScript, Node.js)
 
-### Jarvis
-
-* [A Flowdock robot similar to Hubot](https://github.com/RallySoftware/jarvis)
-
 ### Let's chat
 
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
@@ -254,10 +249,6 @@ These open source projects will help you to build a bot to automate your company
 * [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) (Elixir)
 * [Yetibot](https://github.com/yetibot/yetibot) (Clojure)
-
-### StackStorm
-* [StackStorm](https://github.com/StackStorm/)(node + hubot)
-
 
 ### Spark
 
