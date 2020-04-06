@@ -62,6 +62,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Services
 
 * [WorkflowCI](https://www.workflowci.com) – IFTTT for developers (freemium). Integrates with Slack, GitHub, CircleCI, Google Cloud Build.
+* [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in  Slack.
 
 ## Frameworks and libraries
 
