@@ -62,6 +62,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Services
 
 * [WorkflowCI](https://www.workflowci.com) – IFTTT for developers (freemium). Integrates with Slack, GitHub, CircleCI, Google Cloud Build.
+* [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in  Slack.
 
 ## Frameworks and libraries
 
@@ -233,6 +234,7 @@ These open source projects will help you to build a bot to automate your company
 ### Slack
 
 * [Botkit](https://github.com/howdyai/botkit) (JavaScript, Node.js)
+* [Bolt](https://slack.dev/bolt/concepts) (JavaScript, Node.js)
 * [Cog](https://operable.io/) (Any language)
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 * [Errbot](http://errbot.io/) (Python)
