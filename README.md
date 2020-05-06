@@ -28,9 +28,9 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 #### 3 article series on Virtual War Rooms with ChatOps
 
-  * [The Virtual War Room](https://medium.com/ibm-garage/the-virtual-war-room-a03f7fcfbca2)
-  * [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7)
-  * [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c)
+  * [The Virtual War Room](https://medium.com/ibm-garage/the-virtual-war-room-a03f7fcfbca2) - Using ChatOps to solve problems when people are not sitting face to face.
+  * [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) - The benefits ChatOps offers in managing a virtual war room.
+  * [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) - Creating a virtual war room, step by step.
 
 ## Videos
 
