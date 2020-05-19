@@ -135,6 +135,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Facebook Messenger
 
+* [opsdroid](https://opsdroid.dev) (Python)
 * [Botkit](https://github.com/howdyai/botkit) (JavaScript, Node.js)
 * [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
@@ -223,6 +224,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Skype
 
+* [opsdroid](https://opsdroid.dev) (Python) + adapter
 * [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/errbot-backend-skype) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/netpro2k/hubot-skype) (CoffeeScript, Node.js)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/sdimkov/hubot-skype-web) via Web (CoffeeScript, Node.js)
