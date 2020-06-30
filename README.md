@@ -25,6 +25,8 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) – Benefits of using ChatOps, tools, current trend and the future.
 * [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) – The insight on why ChatOps might not be optimized at your company, and some advice how to make it work.
 * [When ChatOps Goes From Cool to Critical](http://blog.librato.com/posts/chatops-critical) – Some considerations of ChatOps at Librato.
+* [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) - The benefits ChatOps offers in managing a virtual war room.
+* [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) - Creating a virtual war room, step by step.
 
 ## Videos
 
