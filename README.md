@@ -63,6 +63,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Services
 
+* [Abbot](https://ab.bot) – a hosted ChatOps bot, extendible in C#, Python, and JavaScript  (freemium). Integrates with Slack and Discord.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in  Slack.
 * [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
 
