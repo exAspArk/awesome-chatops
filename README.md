@@ -242,6 +242,7 @@ These open source projects will help you to build a bot to automate your company
 * [Cog](https://operable.io/) (Any language)
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 * [Errbot](http://errbot.io/) (Python)
+* [Gort](https://guide.getgort.io/) (Any language)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) (Go)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) (CoffeeScript, Node.js)
 * [Jubot](https://github.com/liquidz/jubot) (Clojure)
