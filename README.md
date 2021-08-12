@@ -64,6 +64,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Services
 
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in  Slack.
+* [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
 
 ## Frameworks and libraries
 
