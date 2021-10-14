@@ -141,7 +141,7 @@ These open source projects will help you to build a bot to automate your company
 * [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/ASoftCo/lita-facebook) (Ruby)
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) (Python)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) (Python)
 
 ### Fleep
 
@@ -202,7 +202,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Matrix
 
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-matrix) (Python)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-matrix) (Python)
 
 ### Mattermost
 
@@ -222,6 +222,7 @@ These open source projects will help you to build a bot to automate your company
 
 * [Errbot](http://errbot.io) + [adapter](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://docs.opsdroid.dev/en/stable/connectors/rocketchat.html) (Python)
 
 ### Skype
 
@@ -245,7 +246,7 @@ These open source projects will help you to build a bot to automate your company
 * [Jubot](https://github.com/liquidz/jubot) (Clojure)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) (Ruby)
 * [Multivac](https://github.com/vektorlab/multivac) (Python, Docker)
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) (Python)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) (Python)
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
 * [PoshBot](https://github.com/poshbotio/PoshBot) (PowerShell)
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) (Ruby)
@@ -255,7 +256,7 @@ These open source projects will help you to build a bot to automate your company
 
 ### Spark
 
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-ciscospark) (Python)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-ciscospark) (Python)
 
 ### Talker
 
@@ -266,7 +267,7 @@ These open source projects will help you to build a bot to automate your company
 * [Errbot](http://errbot.io/) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/wonderbread/lita-telegram) (Ruby)
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-telegram) (Python)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-telegram) (Python)
 * [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) (Ruby)
 * [TelegramBot](https://github.com/hangyas/TelegramBot) (Crystal)
 * [TelegramBot](https://github.com/eljojo/telegram_bot) (Ruby)
@@ -287,7 +288,7 @@ These open source projects will help you to build a bot to automate your company
 * [Chatterbot](https://muffinista.github.io/chatterbot/) (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/MathildeLemee/hubot-twitter) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/fukayatsu/lita-twitter) (Ruby)
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-twitter) (Python)
+* [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-twitter) (Python)
 
 ### Typetalk
 
