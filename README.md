@@ -23,6 +23,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – ChatOps concepts and tools.
 * [What is ChatOps? A guide to its evolution, adoption, and significance](http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/) – ChatOps and its adoption by HipChat Evangelist.
 * [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) – Benefits of using ChatOps, tools, current trend and the future.
+* [8 Reasons Why ChatOps Isn't Working At Your Company](https://orangematter.solarwinds.com/2015/12/16/8-reasons-why-chatops-isnt-working-at-your-company/) – The insight on why ChatOps might not be optimized at your company, and some advice how to make it work.
 * [When ChatOps Goes From Cool to Critical](https://web.archive.org/web/20180323063754/http://blog.librato.com/posts/chatops-critical) – Some considerations of ChatOps at Librato.
 * [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) - The benefits ChatOps offers in managing a virtual war room.
 * [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) - Creating a virtual war room, step by step.
