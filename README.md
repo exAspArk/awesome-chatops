@@ -254,6 +254,7 @@ These open source projects will help you to build a bot to automate your company
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker](https://github.com/koudelka/slacker) (Elixir)
+* [Slashbot](https://github.com/ebrassell/slashbot) (Python)
 * [Yetibot](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Spark
