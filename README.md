@@ -66,6 +66,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Abbot](https://ab.bot) – a hosted bot, extendible in C#, Python, and JavaScript. Integrates with Slack and Discord.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in Slack.
 * [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
+* [What Broke Today](https://whatbroke.today) – AI-powered outage aggregator tracking 100+ cloud services with real-time Telegram alerts. Subscribe to monitor service dependencies.
 
 ## Frameworks and libraries
 
