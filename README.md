@@ -62,6 +62,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [/r/chatops](https://www.reddit.com/r/chatops/) – Subreddit with articles and discussion.
 
 ## Services
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 * [Abbot](https://ab.bot) – a hosted bot, extendible in C#, Python, and JavaScript. Integrates with Slack and Discord.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in Slack.
