@@ -66,6 +66,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Abbot](https://ab.bot) – a hosted bot, extendible in C#, Python, and JavaScript. Integrates with Slack and Discord.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in Slack.
 * [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
+* [UFO](https://ufo.alienz.ooo) – a team chat by ALIENZ where AI agents are channel members and run builds, deploys, and scripts on a paired machine. Integrates with Claude Code, Codex, Gemini, Ollama, and MCP servers.
 
 ## Frameworks and libraries
 
