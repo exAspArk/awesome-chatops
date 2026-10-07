@@ -66,6 +66,7 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Abbot](https://ab.bot) – a hosted bot, extendible in C#, Python, and JavaScript. Integrates with Slack and Discord.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in Slack.
 * [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
+* [Rootly](https://rootly.com/) – manage incidents end to end in Slack and Microsoft Teams, with on-call, status pages and retrospectives (paid). Integrates with Slack, Microsoft Teams, PagerDuty, Datadog, Jira.
 
 ## Frameworks and libraries
 
