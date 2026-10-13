@@ -66,6 +66,8 @@ If you want to contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md).
 * [Abbot](https://ab.bot) – a hosted bot, extendible in C#, Python, and JavaScript. Integrates with Slack and Discord.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) - an interactive agent to monitor and interact with AWS resources in Slack.
 * [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
+* [Agent Barn](https://agentbarn.dev) – open-source (Apache-2.0) control plane for AI agents: talk to your agents in Slack, Teams, Telegram, Discord or email; agents work across Jira, GitHub, Confluence and more; every conversation, tool call, log and cost is recorded; self-hosted on Kubernetes with Helm.
+
 
 ## Frameworks and libraries
 
